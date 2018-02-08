@@ -1,0 +1,34 @@
+# Lewis B. [Fuc(a1-2) Gal(b1-3)] [Fuc(a1-4)] GlcNAc(b1-0)
+# Check -2H = false
+# Allow gap = false
+
+@ Peak 4 (~ 183): mass 189.1112864319999, intensity 4.7067604E7
+** B: Fuc [Peaks (2, 2.0): 4 10]
+
+@ Peak 10 (~ 177): mass 207.12246643199998, intensity 8.54465856E8
+** C: Fuc [Peaks (2, 2.0): 4 10]
+
+@ Peak 68: mass 393.21204633200006, intensity 2.2103924E7
+** B: Fuc Hex [Peaks (4, 4.0): 4 10 68 84]
+
+@ Peak 84: mass 411.222516332, intensity 9.379612E7
+** C: Fuc Hex [Peaks (4, 4.0): 4 10 68 84]
+
+@ Peak 103: mass 434.2384163320001, intensity 1.64614384E8
+** B: Fuc HexNAc [Peaks (4, 4.0): 4 10 103 119]
+
+@ Peak 119 (~ 68): mass 452.24868643199994, intensity 2.2103924E7
+** C: Fuc HexNAc [Peaks (4, 4.0): 4 10 103 119]
+
+@ Peak 154: mass 567.301226332, intensity 8.5519632E7
+** B: [Fuc] [Fuc] Hex [Peaks (3, 3.0): 4 10 154]
+
+@ Peak 169: mass 608.327756332, intensity 2.28944576E8
+** B: [Fuc] [Fuc] HexNAc [Peaks (3, 3.0): 4 10 169]
+
+@ Peak 220: mass 844.453476332, intensity 1.4855537664E10
+** T: [Fuc HexNAc] [Fuc] Hex [Peaks (5, 5.0): 4 10 103 119 220]
+** T: [Fuc Hex] [Fuc] HexNAc [Peaks (5, 5.0): 4 10 68 84 220]
+** T: [Fuc] [Fuc] Hex HexNAc [Peaks (4, 4.0): 4 10 154 220]
+** T: [Fuc] [Fuc] HexNAc Hex [Peaks (4, 4.0): 4 10 169 220]
+
